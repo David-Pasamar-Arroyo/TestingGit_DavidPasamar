@@ -1,0 +1,11 @@
+*.class
+*.exe
+*.log
+*.tmp
+*.swp
+*.jpg
+*.png
+*.mp3
+
+/[Bb]uild/
+/[Tt]arget/
